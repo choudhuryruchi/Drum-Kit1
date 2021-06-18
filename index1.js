@@ -1,4 +1,4 @@
-alert("hello");
+alert("This is a Virtual Drum kit website where you can enjoy all the drum rolls without having an actual drum. Press OK to continue. ");
 var numberOfDrumButtons = document.querySelectorAll(".Drum").length;
 
 for (var i = 0; i < numberOfDrumButtons; i++) {
